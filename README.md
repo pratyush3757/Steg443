@@ -6,6 +6,9 @@ Stegsolve:
     http://www.caesum.com/handbook/Stegsolve.jar
 
 Steghide
+or
+ExifViewer(Online)
+    http://exif.regex.info/exif.cgi
 
 Binwalk
 
