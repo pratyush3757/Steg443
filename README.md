@@ -9,6 +9,7 @@ Steghide
 or
 ExifViewer(Online)
     http://exif.regex.info/exif.cgi
+    https://www.thexifer.net/
 
 Binwalk
 
