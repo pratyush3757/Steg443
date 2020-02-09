@@ -1,4 +1,7 @@
 # Steg443
+
+Tools Needed:
+
 Stegsolve:
     http://www.caesum.com/handbook/Stegsolve.jar
 
